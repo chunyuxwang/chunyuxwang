@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James (@chunyuxwang)
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning C (for systems programming), React, Django, Node.JS (for full-stack development).
+- 👀 I’m interested in software development, systems design.
+- 🌱 I’m currently learning C (for systems programming), React, Django, Node.JS (for full-stack development), GenAI (personal interest)
 - 💞️ I’m looking to collaborate on back-end development, API development, tools development.
 - 📫 You can reach me @ chunx.yu.wang@intel.com or through Teams DM
 - 😄 Pronouns: He/Him
